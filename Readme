@@ -1,3 +1,15 @@
-Olá!
+Trabalho feito em Abril/2019
 
-EStre trabalho foi feito no Linux, não sei quais alterações precisam ser feitas para rodar no Windows.
+Feito utilizando graphics.h no Linux Ubuntu
+Enunciado:
+
+Criar um programa OpenGL que utilize as seguintes
+coordenadas de universo SRU:
+• X: 0 a 1000
+• Y: 0 a 900
+• Tamanho da janela do OpenGL: 450, 500
+• Modelar um universo com, pelo menos 4 objetos construídos a
+partir de primitivas: vértices, linhas, retângulos, triângulos,
+polígonos.
+• Aplicar pelo menos uma vez cada uma das transformações
+geométricas, podendo ser uma em cada objeto ou não.
